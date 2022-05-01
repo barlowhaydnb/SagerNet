@@ -4,7 +4,6 @@
     <string name="logcat">디버그 정보 내보내기</string>
     <string name="version_x">버전(%s)</string>
     <string name="app_version">버전</string>
-    <string name="oss_licenses">오픈 소스 라이선스</string>
     <string name="telegram">텔레그램 업데이트 채널</string>
     <string name="github">소스 코드</string>
     <string name="project">프로젝트</string>
